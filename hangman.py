@@ -35,5 +35,5 @@ while len(letters_in_word)>0 and lives >0:
 if lives==0:
     print(f"Sorry.You died. The word was {word}")
 else:
-    print(f"You guessed the word {word} !!")
+    print(f"You guessed the word {word} !!!")
 
