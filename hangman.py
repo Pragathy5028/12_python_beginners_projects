@@ -5,7 +5,7 @@ import string
 lives=6
 
 word=random.choice(words).upper()
-# word="ZEBRA"
+
 letters_in_word=set(word)
 alphabet=set(string.ascii_uppercase)
 used_letters=set()
